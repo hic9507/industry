@@ -16,7 +16,7 @@ conda activate your_environment
 ### Navigate to the code directory.
 cd your/code/directory
 
-## Enter a command and run these code.
+## Enter a command and run below code.
 
 ### swir: semiconductor anomaly detection
 #### swir_crop.py: 
