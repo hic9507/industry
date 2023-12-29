@@ -16,6 +16,9 @@ conda activate your_environment
 ### Navigate to the code directory.
 cd your/code/directory
 
+### Install libraries
+pip install -r requirements.txt
+
 ## Enter these commands and run below code.
 
 ### swir: semiconductor anomaly detection
