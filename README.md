@@ -10,18 +10,26 @@ resize: Resize original image to (256, 256) size.
 
 original: Use original images.
 
-## swir: semiconductor anomaly detection
-### swir_crop.py: 
+### Activate virtual environment.
+conda activate your_environment
+
+### Navigate to the code directory.
+cd your/code/directory
+
+## Enter a command and run these code.
+
+### swir: semiconductor anomaly detection
+#### swir_crop.py: 
 To train 3x3 images.
-### swir_resize.py:
+#### swir_resize.py:
 To train resized original images.
-### swir_original.py:
+#### swir_original.py:
 To train original images.
 
-## window: windows(창호) anomaly detection
-### window_crop.py: 
+### window: windows(창호) anomaly detection
+#### window_crop.py: 
 To train 3x3 images.
-### window_resize.py:
+#### window_resize.py:
 To train resized original images.
-### window_original.py:
+#### window_original.py:
 To train original images.
